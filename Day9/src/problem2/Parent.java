@@ -21,6 +21,6 @@ public abstract class Parent {
 	
 	 void method3() {
 		System.out.println("I am inside 3rd method of Parent Class");
-	}
+	} 
 }
 
